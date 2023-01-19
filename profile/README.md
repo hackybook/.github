@@ -1,4 +1,4 @@
-<img src="banner.png"/>
+<img src="hackybook.png"/>
 
 <div align="center">
   <h1>HackyBook</h1>
